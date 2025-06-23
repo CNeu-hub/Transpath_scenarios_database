@@ -14,9 +14,11 @@ The provided code performs a descriptive content and impact analysis using the [
 
 ### Usage:
 
-All scripts can be executed from scratch after cloning the repository. Only the first preprocessing script ("Database_Analysis_I_Decadal_Perc_Ch_v02.R") can not be executed because we didnt upload the raw data used there to fulfil licencing restrictions (see report).
+All scripts can be executed from scratch after cloning the repository. Only the first preprocessing script ("Database_Analysis_I_Decadal_Perc_Ch_v02.R") can not be executed because we didnt upload the raw data used there to fulfil licencing restrictions (see report). Folder description is provided below. 
 
-**The repository includes five folders:**
+### Structure: 
+
+The repository includes five folders:
 
 **1. Analysis:**
 
