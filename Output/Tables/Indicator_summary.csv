@@ -1,0 +1,86 @@
+"","Metric abbreviation","Metric","SDG","Percentage Indicators","Percentage SDGs"
+"1","Extreme poverty"," Extreme poverty (Mio. people)","SDG1",3.1,4.7
+"2","Population < 1 $"," Population less than 1 dollar (%)","SDG1",1.6,4.7
+"3","Hunger risk"," Hunger risk (Mio. people)","SDG2",15.6,45.3
+"4","Undernourishment"," Prevalence of undernourishment (Mio. people)","SDG2",1.6,45.3
+"5","Hunger incidence"," Hunger incidence (% population)","SDG2",1.6,45.3
+"6","Malnourished children"," Malnourished children (Mio. children)","SDG2",1.6,45.3
+"7","FPI 2005"," Food price index (2005)","SDG2",12.5,45.3
+"8","FPI 2010"," Food price index (2010)","SDG2",12.5,45.3
+"9","FPI 2015"," Food price index (2015)","SDG2",1.6,45.3
+"10","Change food prices"," Change average food prices (US$)","SDG2",3.1,45.3
+"11","Fertilizer use"," Fertilizer use (Input 10^3 ton/y)","SDG2",4.7,45.3
+"12","Nitrogen use"," Fertilizer use nitrogen (Tg N/yr)","SDG2",25,45.3
+"13","NO2 emissions"," Nitrogen oxide emissions (Mt NO2/yr)","SDG3",53.1,68.8
+"14","NOx emissions"," Nitrogen oxide emissions (Mt NOx/yr)","SDG3",10.9,68.8
+"15","SO2 emissions"," Sulphur dioxide emissions (Mt SO2/yr)","SDG3",62.5,68.8
+"16","SOx emissions"," Sulphur dioxide emissions (Mt SOx/yr)","SDG3",6.2,68.8
+"17","BC emissions"," Black carbon emissions (Mt BC/yr)","SDG3",60.9,68.8
+"18","PM2.5 emissions"," PM2.5 emissions (Mt PM2.5/yr)","SDG3",1.6,68.8
+"19","MYS"," Mean years of schooling (MYS)","SDG4",9.4,14.1
+"20","Adults no education"," Adults no education (%)","SDG4",3.1,14.1
+"21","Female education"," Female education (%)","SDG4",9.4,14.1
+"22","Primary education"," Primary education (%)","SDG4",1.6,14.1
+"23","Gender rat. prim. edu."," Gender ratio primary education","SDG5",4.7,4.7
+"24","Gender rat. sec. edu."," Gender ratio secondary education","SDG5",1.6,4.7
+"25","Access improved water"," Add. acc. to improved water source (Mio. people)","SDG6",1.6,32.8
+"26","Access basic sanitation"," Add. acc. to basic sanitation facilities (Mio. people)","SDG6",1.6,32.8
+"27","Lack improved water"," Lack. acc. to improved water source (Mio. people)","SDG6",1.6,32.8
+"28","Water stress river bas."," Severe water stress river basins (Mio. people)","SDG6",3.1,32.8
+"29","Water stress"," Water stress (Mio. people)","SDG6",3.1,32.8
+"30","Agr. irrigation"," Agricultural irrigation (km^3/y)","SDG6",29.7,32.8
+"31","Share renewables"," Share renewables (%)","SDG7",10.9,12.5
+"32","UE build. tr. p. cap."," UE buildings transport per capita (GJ/cap/yr)","SDG7",3.1,12.5
+"33","Income convergence"," Global income convergence (%)","SDG8",3.1,6.2
+"34","Unemployment"," Unemployment (Mio. people)","SDG8",1.6,6.2
+"35","Unemployment rate"," Unemployment rate (%)","SDG8",3.1,6.2
+"36","Ind. hydrogen electr. share"," Industry hydrogen electricity energy share (%)","SDG9",3.1,3.1
+"37","International inequity"," International inequity","SDG10",1.6,9.4
+"38","National equity"," National equity","SDG10",1.6,9.4
+"39","International equity"," International equity","SDG10",3.1,9.4
+"40","Rel. poverty"," Relative poverty (%)","SDG10",3.1,9.4
+"41","Rat. GDP/cap"," Ratio GDP per capita","SDG10",1.6,9.4
+"42","10% richest/10% poorest rat."," Richest 10 %  to poorest 10 % ratio","SDG10",3.1,9.4
+"43","GINI coefficient"," Gini coefficient (GINI)","SDG10",1.6,9.4
+"44","Urban PM2.5"," Urban PM2.5 concentration (µg/m3)","SDG11",3.1,3.1
+"45","Food waste (kcal/cap/day)"," Food waste (kcal/cap/day)","SDG12",3.1,6.2
+"46","Food waste (Mt/yr)"," Food waste (Mt/yr)","SDG12",3.1,6.2
+"47","GHG emissions"," Total GHG emissions (Mt CO2eq/yr)","SDG13",60.9,81.2
+"48","CO2 emissions"," Total CO2 emissions (Mt CO2/yr)","SDG13",67.2,81.2
+"49","AFOLU CO2 emissions"," AFOLU CO2 emissions (Mt CO2/yr)","SDG13",40.6,81.2
+"50","AFOLU GHG emissions"," AFOLU emissions (Mt CO2eq/yr)","SDG13",6.2,81.2
+"51","Forcing"," Forcing (W/m-2)","SDG13",65.6,81.2
+"52","CO2 concentration"," CO2 concentration (ppm)","SDG13",28.1,81.2
+"53","Temperature change"," Temperature change (Since pre-industrial age)","SDG13",65.6,81.2
+"54","Carbon price"," Carbon price (US$/t CO2)","SDG13",40.6,81.2
+"55","River discharge N"," River discharges nitrogen (t N/yr)","SDG14",1.6,9.4
+"56","River discharge P"," River discharges phosphorus (t P/year)","SDG14",1.6,9.4
+"57","MTI"," Mean tropic index (MIT)","SDG14",1.6,9.4
+"58","MSA aquatic"," Mean species abundance aquatic (MSA aquatic)","SDG14",3.1,9.4
+"59","Ocean acidification"," Ocean acidification aragonite saturation state","SDG14",4.7,9.4
+"60","Habitat range size"," Habitat range size (%)","SDG15",1.6,42.2
+"61","Species 50% range loss"," Species affected by 50% range loss (%)","SDG15",1.6,42.2
+"62","GMA"," Geometric mean abundance (GMA)","SDG15",1.6,42.2
+"63","INSIGHTS Index"," INSIGHTS index","SDG15",1.6,42.2
+"64","Habitat loss"," Loss suitable habitat (%)","SDG15",1.6,42.2
+"65","Biodiv. hotspot loss"," Biodiversity hotspot loss (%)","SDG15",1.6,42.2
+"66","Red. vasc. plant sp."," Reduction vascular plant species (%)","SDG15",1.6,42.2
+"67","Extinction MSY"," Extinction per million species years","SDG15",1.6,42.2
+"68","AOH/ESH"," Area of habitat (ESH/AOH)","SDG15",4.7,42.2
+"69","Species range protection lvl."," Species range protection level (%)","SDG15",1.6,42.2
+"70","Ecoregions protection lvl."," Ecoregions protection level (%)","SDG15",1.6,42.2
+"71","Deforestation"," Deforestation","SDG15",4.7,42.2
+"72","NCI-pb"," Pressure-based natural capital index (NCI-pb)","SDG15",1.6,42.2
+"73","LPI"," Living planet index (LPI)","SDG15",3.1,42.2
+"74","RLI"," Red list index (RLI)","SDG15",3.1,42.2
+"75","MSA terrestrial"," Mean species abundance terrestrial (MSA)","SDG15",15.6,42.2
+"76","BII"," Biodiversity intactness index (BII)","SDG15",9.4,42.2
+"77","FRRS"," Fraction regionally remaining species (FRRS)","SDG15",1.6,42.2
+"78","FGRS CB17BDM"," Fraction globally remaining species (cSAR CB17BDM)","SDG15",1.6,42.2
+"79","FGRS US16BDM"," Fraction globally remaining species (cSAR US16BDM)","SDG15",1.6,42.2
+"80","PDF"," Potentially disappeared fraction of species (PDF)","SDG15",1.6,42.2
+"81","Nitrogen fixation"," Nitrogen fixation (Mt N/yr)","SDG15",4.7,42.2
+"82","Mean sp. richness"," Mean species richness (Species p. grid cell)","SDG15",1.6,42.2
+"83","Peace probability"," Peace probability below 2005 deaths","SDG16",3.1,3.1
+"84","Equality"," Equality before law and individual liberty (%)","SDG16",3.1,3.1
+"85","Int. climate finance"," International climate finance (US$)","SDG17",3.1,3.1
