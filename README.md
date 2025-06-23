@@ -1,6 +1,3 @@
----
-output: html_document
----
 # Code repository for descriptive analysis of global intervention scenarios
 
 ### Author:
