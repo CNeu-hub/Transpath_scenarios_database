@@ -1,4 +1,4 @@
-# Code repository for descriptive intervention scenarios analysis
+# Code repository for descriptive analysis of global intervention scenarios 
 
 ### Author: 
 
