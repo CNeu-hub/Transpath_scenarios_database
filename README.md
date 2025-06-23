@@ -13,6 +13,7 @@ This is the project repository to perform the descriptive analysis of:
 The provided code performs a descriptive content and impact analysis using the [intervention scenarios database](www.google.de) of the [Transpath project](https://www.transpath.eu/). The database collects a suite of global model-based policy-screening/target-seeking and policy-oriented exploratory scenarios aiming to mitigate climate change and/or restoring/conserving biodiversity. It includes qualitative and quantitative assumptions underlying the scenarios, accompanied by information about the applied interventions, and impacts of the scenarios.
 
 ### Usage: 
+All scripts can be executed from scratch after cloning the repository. Only the first preprocessing script ("Database_Analysis_I_Decadal_Perc_Ch_v02.R") can not be executed because we didnt upload the raw data used there to fulfil licencing restrictions (see report).
 The repository includes five folders: 
 
 **1. Analysis:** 
