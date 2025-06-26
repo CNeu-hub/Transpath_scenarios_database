@@ -146,4 +146,11 @@ output <- WP3_Subset %>%
 output[output == "NA"] <- NA
 output <- output[, colSums(is.na(output)) != nrow(output)]
 
+#now set all scenarios we dont have permission to share derived quantitative data to 0 for upload of data on Zenodo/Github
+#create index vector containing the index values of all scenarios that use data from IIASA databases
+#index <- c(1:5, 17:50, 71:95, 118:121, 285:293, 315:348, 352:510)
+
+#output <- output %>%
+#  mutate(across(all_of(Indicators), ~ ifelse(Index %in% index, NA, .)))
+
 saveRDS(output, file = paste(datapath, "10_06_25_Preprocessed_Database_Perc_Ch.rds", sep = ""))
