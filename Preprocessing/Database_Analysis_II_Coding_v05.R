@@ -105,4 +105,3 @@ WP3_Subset <- rbind(descriptions, WP3_Subset)
 
 #safe resulting df as xlsx (final database output)
 write.xlsx(WP3_Subset, file = paste(getwd(), "/Output/Database_v01_10_06_2025_cn.xlsx", sep = ""))
-
