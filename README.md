@@ -10,7 +10,7 @@ This is the project repository to perform the descriptive analysis of:
 
 *Neumann, C., Alkemade, R., Van Vuuren, D., Seppelt, R. (2025). Global Assessment of Biodiversity-Climate Pathways. Deliverable 3.1.*
 
-The provided code performs a descriptive content and impact analysis using the [intervention scenarios database](www.google.de) of the [Transpath project](https://www.transpath.eu/). The database collects a suite of global model-based policy-screening/target-seeking and policy-oriented exploratory scenarios aiming to mitigate climate change and/or restoring/conserving biodiversity. It includes qualitative and quantitative assumptions underlying the scenarios, accompanied by information about the applied interventions, and impacts of the scenarios.
+The provided code performs a descriptive content and impact analysis using the [intervention scenarios database](https://zenodo.org/records/15753209) of the [Transpath project](https://www.transpath.eu/). The database collects a suite of global model-based policy-screening/target-seeking and policy-oriented exploratory scenarios aiming to mitigate climate change and/or restoring/conserving biodiversity. It includes qualitative and quantitative assumptions underlying the scenarios, accompanied by information about the applied interventions, and impacts of the scenarios.
 
 ### Usage:
 
