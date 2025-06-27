@@ -36,7 +36,7 @@ Contains the data input needed to perform the preprocessing and analysis of the 
 
 **4. Output:**
 
-Contains the output of the analysis (Figures/Tables) and the preprocessed database output, further provided on [Zenodo](www.google.de).
+Contains the output of the analysis (Figures/Tables) and the preprocessed database output, further provided on [Zenodo](https://zenodo.org/records/15753209).
 
 **5. Preprocessing:**
 
